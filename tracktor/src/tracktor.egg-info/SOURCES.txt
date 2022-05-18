@@ -1,12 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 requirements.txt
 setup.py
 =======
+=======
+>>>>>>> 7588e9b0801b066789f54772d8071215536612cf
 .gitignore
 .gitmodules
 requirements.txt
 setup.py
 data/.gitignore
+<<<<<<< HEAD
+>>>>>>> 7588e9b0801b066789f54772d8071215536612cf
+=======
 >>>>>>> 7588e9b0801b066789f54772d8071215536612cf
 experiments/cfgs/oracle_tracktor.yaml
 experiments/cfgs/reid.yaml
@@ -64,12 +70,15 @@ src/tracktor.egg-info/SOURCES.txt
 src/tracktor.egg-info/dependency_links.txt
 src/tracktor.egg-info/top_level.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 src/tracktor/__pycache__/__init__.cpython-37.pyc
 src/tracktor/__pycache__/config.cpython-37.pyc
 src/tracktor/__pycache__/frcnn_fpn.cpython-37.pyc
 src/tracktor/__pycache__/oracle_tracker.cpython-37.pyc
 src/tracktor/__pycache__/tracker.cpython-37.pyc
 src/tracktor/__pycache__/utils.cpython-37.pyc
+=======
+>>>>>>> 7588e9b0801b066789f54772d8071215536612cf
 =======
 >>>>>>> 7588e9b0801b066789f54772d8071215536612cf
 src/tracktor/datasets/__init__.py
@@ -84,6 +93,7 @@ src/tracktor/datasets/mot_reid_wrapper.py
 src/tracktor/datasets/mot_sequence.py
 src/tracktor/datasets/mot_wrapper.py
 <<<<<<< HEAD
+<<<<<<< HEAD
 src/tracktor/datasets/__pycache__/__init__.cpython-37.pyc
 src/tracktor/datasets/__pycache__/cuhk03.cpython-37.pyc
 src/tracktor/datasets/__pycache__/factory.cpython-37.pyc
@@ -97,6 +107,8 @@ src/tracktor/datasets/__pycache__/mot_sequence.cpython-37.pyc
 src/tracktor/datasets/__pycache__/mot_wrapper.cpython-37.pyc
 =======
 >>>>>>> 7588e9b0801b066789f54772d8071215536612cf
+=======
+>>>>>>> 7588e9b0801b066789f54772d8071215536612cf
 src/tracktor/reid/__init__.py
 src/tracktor/reid/config.py
 src/tracktor/reid/datamanager.py
@@ -105,11 +117,15 @@ src/tracktor/reid/mot_seq_dataset.py
 src/tracktor/reid/resnet.py
 src/tracktor/reid/solver.py
 <<<<<<< HEAD
+<<<<<<< HEAD
 src/tracktor/reid/triplet_loss.py
 src/tracktor/reid/__pycache__/__init__.cpython-37.pyc
 src/tracktor/reid/__pycache__/config.cpython-37.pyc
 src/tracktor/reid/__pycache__/resnet.cpython-37.pyc
 src/tracktor/reid/__pycache__/triplet_loss.cpython-37.pyc
+=======
+src/tracktor/reid/triplet_loss.py
+>>>>>>> 7588e9b0801b066789f54772d8071215536612cf
 =======
 src/tracktor/reid/triplet_loss.py
 >>>>>>> 7588e9b0801b066789f54772d8071215536612cf

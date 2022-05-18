@@ -1,6 +1,9 @@
 # TrackTick
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7588e9b0801b066789f54772d8071215536612cf
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_tc20aOIdlAza0szHfwP7wQ09QDnhk7z?usp=sharing)
@@ -32,4 +35,7 @@ To see a demo, simply just run the [Google Colab Notebook](https://colab.researc
 ### References
 1. [YOLOv5](https://github.com/mikel-brostrom/Yolov5_DeepSort_OSNet.git)
 2. [Tracktor](https://github.com/phil-bergmann/tracking_wo_bnw)
+<<<<<<< HEAD
+>>>>>>> 7588e9b0801b066789f54772d8071215536612cf
+=======
 >>>>>>> 7588e9b0801b066789f54772d8071215536612cf
