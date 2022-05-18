@@ -4,6 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_tc20aOIdlAza0szHfwP7wQ09QDnhk7z?usp=sharing)
 
 This is the repository of our academic project of the course CSE 4622. In this project, we have tried to propose a `Pedestrian Tracker` to track the movement of the pedestrian captured by videos. 
+<p align="center"> <img src="sample.gif" class="center"/>
 
 ## Installation 
 
