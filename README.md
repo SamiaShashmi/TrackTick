@@ -21,7 +21,7 @@ To see a demo, simply just run the [Google Colab Notebook](https://colab.researc
 
 ## Training
 1. To train the `Person Detection` model using [YOLOv5](https://github.com/ultralytics/yolov5), follow [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M8I_SeZJO4_96ryfJdZhqp5H7qstRNw1?usp=sharing)
-2. To train the `Person ReID` model with [Torchreid](https://github.com/KaiyangZhou/deep-person-reid), go [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ttps://drive.google.com/file/u/0/d/1UWBYe1BZnIFNvfQWJNDf2OZSEbd3SuYd?usp=sharing)
+2. To train the `Person ReID` model with [Torchreid](https://github.com/KaiyangZhou/deep-person-reid), go [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M8I_SeZJO4_96ryfJdZhqp5H7qstRNw1?usp=sharing)
 
 ### Contributors
 1. Fariha Fairoz `180041214`<br>
