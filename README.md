@@ -29,4 +29,5 @@ To see a demo, simply just run the [Google Colab Notebook](https://colab.researc
 
 ### References
 1. [YOLOv5](https://github.com/mikel-brostrom/Yolov5_DeepSort_OSNet.git)
-2. [Tracktor](https://github.com/phil-bergmann/tracking_wo_bnw)
+2. [DeepSORT](https://github.com/nwojke/deep_sort)
+3. [Tracktor](https://github.com/phil-bergmann/tracking_wo_bnw)
