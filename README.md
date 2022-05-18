@@ -30,7 +30,3 @@ To see a demo, simply just run the [Google Colab Notebook](https://colab.researc
 ### References
 1. [YOLOv5](https://github.com/mikel-brostrom/Yolov5_DeepSort_OSNet.git)
 2. [Tracktor](https://github.com/phil-bergmann/tracking_wo_bnw)
-<<<<<<< HEAD
->>>>>>> 7588e9b0801b066789f54772d8071215536612cf
-=======
->>>>>>> 7588e9b0801b066789f54772d8071215536612cf
