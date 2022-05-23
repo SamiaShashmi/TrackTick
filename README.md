@@ -17,7 +17,7 @@ This is the repository of our academic project of the course CSE 4622. In this p
 
 ## Inference
     
-To see a demo, simply just run the [Google Colab Notebook](https://colab.research.google.com/drive/1_tc20aOIdlAza0szHfwP7wQ09QDnhk7z?usp=sharing). All the necessary are guideline are given here.
+To see a demo, simply just run the [Google Colab Notebook](https://colab.research.google.com/drive/1_tc20aOIdlAza0szHfwP7wQ09QDnhk7z?usp=sharing). All the necessary guidelines are given here.
 
 ## Training
 1. To train the `Person Detection` model using [YOLOv5](https://github.com/ultralytics/yolov5), follow [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M8I_SeZJO4_96ryfJdZhqp5H7qstRNw1?usp=sharing)
